@@ -1,0 +1,4 @@
+prometheus-client==0.16.0
+psycopg2-binary==2.9.3
+substrate-interface==1.5.1
+web3==5.31.4

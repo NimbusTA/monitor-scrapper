@@ -1,0 +1,7 @@
+__pycache__
+
+.idea
+.local
+*.cmd
+*.swp
+*.db
